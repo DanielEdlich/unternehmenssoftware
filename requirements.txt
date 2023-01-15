@@ -3,3 +3,9 @@ requests~=2.28.1
 pandas~=1.5.1
 numpy~=1.23.4
 lxml~=4.9.1
+missingno
+nltk~=3.7
+textblob
+snowballstemmer
+matplotlib
+seaborn
