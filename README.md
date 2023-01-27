@@ -12,10 +12,8 @@ Install libraries:
 ```shell
 pip install -r requirements.txt --user
 ```
-Run Jupiter Notebook Server
-```shell
-jupyter notebook
-```
+
+To view and run the notebook run the jupyter server from the command line or the code editor of your choice.
 
 ## Contents
 - [Webscraper](trustpilot.ipynb)
