@@ -1,5 +1,7 @@
 # Unternehmenssoftware - Trustpilot Review Analyser
 
+- Group 13
+
 ## Setup
 Create python environment:
 ```shell
@@ -24,3 +26,6 @@ jupyter notebook
 [Trustpilot](https://www.trustpilot.com/)
 
 Example: [Google on Trustpilot](https://www.trustpilot.com/review/www.google.com)
+
+## Notes
+- to avoid running into beeing blocked by trustpilot reduce items in website_list or max_pages
